@@ -1,0 +1,1 @@
+export const INFO_FETCH = 'auth_info';
